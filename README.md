@@ -1,0 +1,1 @@
+This is my Etch-A-Scetch Project from the odin project curriculum.

@@ -1,0 +1,58 @@
+body {
+    background-color: teal;
+}
+.h1{
+		color: cyan;
+		text-decoration: none;
+		overflow: hidden;
+		font-size: 2em;
+		text-align: center;
+}
+
+#backing {
+    z-index: 1;
+    border: 2px solid grey;
+    background-color: white;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 0;
+    font-size: 0;
+    overflow: hidden;
+}
+
+#container {
+    z-index: 2;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 0;
+    overflow: hidden;
+	  
+}
+
+#new-grid {
+    
+    border-radius: 15px;
+    width: 250px;
+    height: 65px;
+    display: block;
+    margin-top: 10px;
+    margin: 0 auto;
+    font-size: 2em;
+	color: teal;
+	font-family: Merriweather, serif;
+	background-color: cyan;
+	text-align: center;
+}
+
+}
+button{
+		border-color: grey;
+}
+button:hover{
+		border-color: darkgrey;
+	  box-shadow: 5px 2px darkgrey;
+	  
+}
